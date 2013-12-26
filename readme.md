@@ -1,1 +1,1 @@
-(Beginning Bhakti)[www.beginningbkati.github.io]
+# [Beginning Bhakti](beginningbkati.github.io)
