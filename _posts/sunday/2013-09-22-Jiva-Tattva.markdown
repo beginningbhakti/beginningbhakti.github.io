@@ -9,5 +9,5 @@ In this instalment of the BYC, we explore who we are. Does there exist anything 
 
 Kirtan: (Unoforunatly it did not get recorded, but trust us it was epic) Priya
 
-[Class](https://s3.amazonaws.com/Bhakti/2013-09-22-Jiva-Tattva/Class.Kevin.mp3): Kevin
+[Class](https://s3.amazonaws.com/beginningbhakti/2013-09-22-Jiva-Tattva/Class.Kevin.mp3): Kevin
 
