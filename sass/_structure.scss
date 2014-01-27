@@ -1,0 +1,118 @@
+// =============================================================================
+// Structure
+// =============================================================================
+
+.container {
+  // margin: 0 auto;
+  max-width: $total-width;
+  font-family: "Open Sans";
+  color: #444;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  // background: url(/media/pic.jpeg);
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  &:before {
+    background-color:rgba(221, 75, 56, .75); 
+    content:"";
+    display:block; 
+    position: absolute; 
+    top: 0;
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+  }
+
+  header {
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    z-index: 10;
+    width: 100%;
+    // background: black;
+    color: white!important;
+    h1 {
+      font-family: 'Lobster Two', cursive;
+      @include rhythm(1, 0, 0, 0, $h1-size * 2);
+      @include adjust-font-size-to($h1-size * 2);
+      color: white;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+  footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: $black;
+    color: white; 
+    text-align: center;
+    padding: 1em;
+    a {
+      color: white;
+      padding: 1em;
+    }
+  }
+}
+
+
+.content {
+  position: fixed;
+  left: 50%;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  overflow: scroll;
+  padding: 20px;
+
+  li {
+    list-style: none;
+    .date {
+      float: right;
+    }
+  }
+}
+
+
+.search {
+  @include rhythm(1, 0, 0, 0, $base-font-size);
+  padding: 5px;
+  border: 1px solid $black;
+  border-radius: 3px;
+  width: 300px;
+}
+
+
+
+
+header {
+
+  h2 {
+    border-bottom: 1px solid $grey;
+    // @include rhythm(0, 0, 1, 0, 24px);
+  }
+
+  p {
+    display: inline-block;
+    padding-right: 20px;
+    margin-top: 8px;
+    // @include rhythm(1, 0, 0, 0, 24px);
+  }
+
+  .date {
+    float: right;
+  }
+}
