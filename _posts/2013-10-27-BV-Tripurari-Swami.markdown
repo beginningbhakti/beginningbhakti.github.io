@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BV Tripurari Swami"
-tags: sunday guests
+tags: sunday guest
 author: BV Tripurari Swami
 ---
 
