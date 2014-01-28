@@ -109,4 +109,7 @@ li .tag {
     // color: $black;
 }
 
+.post {
+  @include rhythm(0, 0, 1, 0);
+}
 

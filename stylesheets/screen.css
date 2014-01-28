@@ -270,6 +270,14 @@ li .tag {
   line-height: 2.30769em;
 }
 
+/* line 112, ../sass/_skin.scss */
+.post {
+  margin-top: 0em;
+  padding-top: 0em;
+  padding-bottom: 1.5em;
+  margin-bottom: 0em;
+}
+
 /*$primary: #327CCB;*/
 /* line 61, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
 * html {
