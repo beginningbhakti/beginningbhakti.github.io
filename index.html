@@ -5,17 +5,10 @@ title: Bhakti Yoga - UVa
 
 <div id="home">
 
-	<div class="most-recent">
-		<h1>Our Most Recent Events</h1>
-
-	    {% for post in site.posts limit:1 %}
-	    	{% include postHeader.html post=post %}
-			{{ post.content }}
-		{% endfor %}
-	</div>
+	
 
 	<div class="featured">
-		<h1>Featured</h1>
+		
 	    {% for post in site.tags.featured limit:1 %}
 	    	{% include postHeader.html post=post %}
 			{{ post.content }}
