@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Jayadvaita Swami"
+title:  "The Purpose of Life"
 author: Jayadvaita Swami
 tags: sunday guest featured
 ---
 
-Jayadvaita Swami impressed upon the BYC the need for spiritual life and told personal stories about how he came to know about Bhakti Yoga.
+Jayadvaita Swami speaks about the need for spiritual life and tells personal stories about how he came to Bhakti Yoga.
 
 - [Kirtan](https://s3.amazonaws.com/beginningbhakti/2014-1-12-Jayadvait-Swami/Natasha.Kirtan.mp3): Natasha
 - [Class](https://s3.amazonaws.com/beginningbhakti/2014-1-12-Jayadvait-Swami/Jayadvaita.Swami.Class.mp3): Jayadvaita Swami
