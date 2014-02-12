@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Trigunas"
+title:  "The Qualities of Consciousness"
 author: Mayapriya DD
 tags: sunday
 ---
