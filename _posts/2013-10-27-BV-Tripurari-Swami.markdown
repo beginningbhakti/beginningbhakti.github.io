@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BV Tripurari Swami"
+title:  "The Philosophy of Bhakti Yoga"
 tags: sunday guest
 author: BV Tripurari Swami
 ---
