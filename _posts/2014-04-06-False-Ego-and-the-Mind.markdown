@@ -10,3 +10,4 @@ We all thing of ourselves in a particular way. One may think of oneself as a "ni
 - [Kirtan](https://s3.amazonaws.com/beginningbhakti/2014-04-06-False-Ego-and-the-Mind/tessa.kirtan.mp3): Tessa
 - [Class](https://s3.amazonaws.com/beginningbhakti/2014-04-06-False-Ego-and-the-Mind/kunal.class.mp3): Kunal
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/dYuXXJOBBpA" frameborder="0" allowfullscreen></iframe>
