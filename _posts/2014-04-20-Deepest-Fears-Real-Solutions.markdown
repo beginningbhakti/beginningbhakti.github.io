@@ -12,3 +12,4 @@ This week we will explore one of the deepest fears and yearnings of the heart, a
 - [Kirtan](https://s3.amazonaws.com/beginningbhakti/2014-04-20-Deepest-Fears-Real-Solutions/Natasha.Kirtan.mp3): Natasha
 - [Class](https://s3.amazonaws.com/beginningbhakti/2014-04-20-Deepest-Fears-Real-Solutions/Abeer.Class.mp3): Abeer
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/s-73rKKTV60" frameborder="0" allowfullscreen></iframe>

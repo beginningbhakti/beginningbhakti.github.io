@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happiness, That Elusive Goal" 
+title:  "Happiness, That Elusive Goal"
 author: Mayapriya devi dasi
 tags: sunday
 ---
@@ -11,3 +11,5 @@ This week we will explore what the ancient Bhagavad-gita says about happiness. H
 
 - [Kirtan](https://s3.amazonaws.com/beginningbhakti/2014-04-27-Happiness-That-Illusive-Goal/LakshmiKirtana.mp3): Lakshmi
 - [Class](https://s3.amazonaws.com/beginningbhakti/2014-04-27-Happiness-That-Illusive-Goal/ClassMP.mp3): MPdd
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/bUa5xx_s4Zw" frameborder="0" allowfullscreen></iframe>
