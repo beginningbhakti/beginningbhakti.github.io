@@ -295,14 +295,15 @@ html {
   width: 50%;
   height: 100%;
   background: url(/media/bg.jpg);
+  background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
-/* line 25, ../sass/_structure.scss */
+/* line 26, ../sass/_structure.scss */
 .sidebar:before {
-  background-color: rgba(221, 75, 56, 0.75);
+  /*background-color:rgba(221, 75, 56, .75);*/
   content: "";
   display: block;
   position: absolute;
@@ -311,7 +312,7 @@ html {
   left: 0;
   right: 0;
 }
-/* line 36, ../sass/_structure.scss */
+/* line 37, ../sass/_structure.scss */
 .sidebar header {
   position: absolute;
   text-align: center;
@@ -320,7 +321,7 @@ html {
   width: 100%;
   color: white !important;
 }
-/* line 44, ../sass/_structure.scss */
+/* line 45, ../sass/_structure.scss */
 .sidebar header h1 {
   font-family: 'Lobster Two', cursive;
   margin-top: 0.375em;
@@ -331,11 +332,11 @@ html {
   line-height: 1.125em;
   color: white;
 }
-/* line 50, ../sass/_structure.scss */
+/* line 51, ../sass/_structure.scss */
 .sidebar header a:hover {
   text-decoration: none;
 }
-/* line 55, ../sass/_structure.scss */
+/* line 56, ../sass/_structure.scss */
 .sidebar footer {
   position: absolute;
   bottom: 0;
@@ -346,13 +347,13 @@ html {
   text-align: center;
   padding: 1em;
 }
-/* line 64, ../sass/_structure.scss */
+/* line 65, ../sass/_structure.scss */
 .sidebar footer a {
   color: white;
   padding: 1em;
 }
 
-/* line 72, ../sass/_structure.scss */
+/* line 73, ../sass/_structure.scss */
 .content {
   position: fixed;
   left: 50%;
@@ -362,16 +363,16 @@ html {
   overflow: scroll;
   padding: 20px;
 }
-/* line 81, ../sass/_structure.scss */
+/* line 82, ../sass/_structure.scss */
 .content li {
   list-style: none;
 }
-/* line 83, ../sass/_structure.scss */
+/* line 84, ../sass/_structure.scss */
 .content li .date {
   float: right;
 }
 
-/* line 90, ../sass/_structure.scss */
+/* line 91, ../sass/_structure.scss */
 .search {
   margin-top: 1.5em;
   padding-top: 0em;
@@ -383,17 +384,17 @@ html {
   width: 300px;
 }
 
-/* line 103, ../sass/_structure.scss */
+/* line 104, ../sass/_structure.scss */
 header h2 {
   border-bottom: 1px solid #cccccc;
 }
-/* line 108, ../sass/_structure.scss */
+/* line 109, ../sass/_structure.scss */
 header p {
   display: inline-block;
   padding-right: 20px;
   margin-top: 8px;
 }
-/* line 115, ../sass/_structure.scss */
+/* line 116, ../sass/_structure.scss */
 header .date {
   float: right;
 }
