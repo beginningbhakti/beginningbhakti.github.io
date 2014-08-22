@@ -2,7 +2,7 @@
 layout: post
 title:  "The Truth About Truth"
 author: Dr. Graham Schweig
-tags: sunday guest featured
+tags: sunday guest
 ---
 
 Come hear Dr. Graham Schweig (Garuda dasa) speak about the beautiful vision of love in Krishna Bhakti. Dr. Schweig is professor of philosophy and religious studies and director of asian studies at Christopher Newport University. He is an author, scholar, and yogi who teaches about the universal language of the heart.
