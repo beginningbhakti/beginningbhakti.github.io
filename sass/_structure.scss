@@ -15,7 +15,7 @@
   top: 0;
   width: 50%;
   height: 100%;
-  // background: url(/media/pic.jpeg);
+  background: url(/media/bg.jpeg);
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -23,13 +23,13 @@
   background-size: cover;
 
   &:before {
-    background-color:rgba(221, 75, 56, .75); 
+    background-color:rgba(221, 75, 56, .75);
     content:"";
-    display:block; 
-    position: absolute; 
+    display:block;
+    position: absolute;
     top: 0;
-    bottom: 0; 
-    left: 0; 
+    bottom: 0;
+    left: 0;
     right: 0;
   }
 
@@ -58,7 +58,7 @@
     left: 0;
     width: 100%;
     background: $black;
-    color: white; 
+    color: white;
     text-align: center;
     padding: 1em;
     a {
